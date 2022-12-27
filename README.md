@@ -6,6 +6,5 @@ from threading import Timer
 from datetime import datetime
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-SEND_REPORT_EVERY = TIME_IN_SECONDS_HERE
-WEBHOOK = "WEBHOOK_URL_HERE"
+
 ![image](https://user-images.githubusercontent.com/86205212/209600894-127820e3-c724-49db-8404-0ad838bd1262.png)
